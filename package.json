@@ -24,7 +24,9 @@
   "amd": {},
   "volo": {
     "dependencies": {
-      "anchor": "github:anchorjs/class"
+      "class": "github:anchorjs/class",
+      "events": "github:anchorjs/events",
+      "postmessage": "github:anchorjs/postmessage"
     }
   }
 }
