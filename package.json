@@ -23,10 +23,11 @@
   "main": "main",
   "amd": {},
   "volo": {
+    "baseUrl": "vendor",
     "dependencies": {
-      "class": "github:anchorjs/class",
-      "events": "github:anchorjs/events",
-      "postmessage": "github:anchorjs/postmessage"
+      "class": "github:anchorjs/class/master",
+      "events": "github:anchorjs/events/master",
+      "postmessage": "github:anchorjs/postmessage/master"
     }
   }
 }

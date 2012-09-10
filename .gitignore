@@ -1,5 +1,4 @@
 vendor/*
-!vendor/events.js
 tests/vendor
 
 # Mac OS X
