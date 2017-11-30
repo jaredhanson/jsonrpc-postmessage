@@ -1,6 +1,6 @@
 ## Tests
 
-Tests for JSONRPC-postMessage are executed using [Mocha](http://visionmedia.github.com/mocha/)
+Tests for JSONRPC-postMessage are executed using [Mocha](http://mochajs.org/)
 as a test framework with [Chai](http://chaijs.com/) assertions.
 
 ##### Dependencies
